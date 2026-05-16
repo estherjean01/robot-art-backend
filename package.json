@@ -1,0 +1,8 @@
+{
+  "name": "robot-art-backend",
+  "version": "1.0.0",
+  "description": "與機器人對話 — 後端 API",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  }
+}
